@@ -3,8 +3,12 @@ title: "QuartoActions"
 ---
 
 # Heading
+
 ## Subheading
+
 This is a paragraph with *italic* and **bold** text.
+
+FUNCIONA?
 
 
 This is a Quarto website.
