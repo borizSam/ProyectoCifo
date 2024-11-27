@@ -2,6 +2,11 @@
 title: "QuartoActions"
 ---
 
+# Heading
+## Subheading
+This is a paragraph with *italic* and **bold** text.
+
+
 This is a Quarto website.
 
 To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
